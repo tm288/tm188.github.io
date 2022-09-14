@@ -1,16 +1,16 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-  <title>Telegame</title>
+  <title>tm188</title>
   
   <subtitle>人生若只如初见</subtitle>
-  <link href="https://telegame.org/atom.xml" rel="self"/>
+  <link href="https://tm188.github.io/atom.xml" rel="self"/>
   
-  <link href="https://telegame.org/"/>
+  <link href="https://tm188.github.io/"/>
   <updated>2022-08-19T12:06:12.000Z</updated>
-  <id>https://telegame.org/</id>
+  <id>https://tm188.github.io/</id>
   
   <author>
-    <name>Telegame</name>
+    <name>tm188</name>
     
   </author>
   
@@ -18,8 +18,8 @@
   
   <entry>
     <title>kizk</title>
-    <link href="https://telegame.org/test.html"/>
-    <id>https://telegame.org/test.html</id>
+    <link href="https://tm188.github.io/test.html"/>
+    <id>https://tm188.github.io/test.html</id>
     <published>2022-08-19T12:06:12.000Z</published>
     <updated>2022-08-19T12:06:12.000Z</updated>
     
@@ -35,8 +35,8 @@
   
   <entry>
     <title>Hello World</title>
-    <link href="https://telegame.org/hello-world.html"/>
-    <id>https://telegame.org/hello-world.html</id>
+    <link href="https://tm188.github.io/hello-world.html"/>
+    <id>https://tm188.github.io/hello-world.html</id>
     <published>2022-07-23T01:07:07.600Z</published>
     <updated>2022-07-23T01:07:07.600Z</updated>
     

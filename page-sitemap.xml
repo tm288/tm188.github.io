@@ -2,7 +2,7 @@
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
     <url>
-        <loc>https://telegame.org/</loc>
+        <loc>https://tm188.github.io/</loc>
         <changefreq>daily</changefreq>
         <priority>1</priority>
     </url>
@@ -10,7 +10,7 @@
     
     
     <url>
-        <loc>https://telegame.org/404.html</loc>
+        <loc>https://tm188.github.io/404.html</loc>
         <lastmod>2022-07-30T00:33:52.538Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.8</priority>
@@ -19,7 +19,7 @@
     
     
     <url>
-        <loc>https://telegame.org/categories/index-1.html</loc>
+        <loc>https://tm188.github.io/categories/index-1.html</loc>
         <lastmod>2022-06-05T20:18:29.342Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.8</priority>
@@ -28,7 +28,7 @@
     
     
     <url>
-        <loc>https://telegame.org/link/</loc>
+        <loc>https://tm188.github.io/link/</loc>
         <lastmod>2022-06-05T20:18:23.596Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.8</priority>
@@ -37,7 +37,7 @@
     
     
     <url>
-        <loc>https://telegame.org/categories/</loc>
+        <loc>https://tm188.github.io/categories/</loc>
         <lastmod>2022-05-27T21:16:06.917Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.8</priority>
